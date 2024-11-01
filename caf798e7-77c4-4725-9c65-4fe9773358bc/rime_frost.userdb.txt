@@ -1,0 +1,20 @@
+# Rime user dictionary
+#@/db_name	rime_frost
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	18
+#@/user_id	caf798e7-77c4-4725-9c65-4fe9773358bc
+ce shi 	测试	c=9 d=8.76478 t=18
+cheng de shang 	称得上	c=1 d=0.951229 t=18
+dan shi 	但是	c=0 d=0.0918512 t=18
+dan shi de sa dan sa dan 	但是的撒旦撒旦	c=1 d=0.923116 t=18
+de 	的	c=0 d=0.18557 t=18
+de sa dan 	的撒旦	c=1 d=0.946485 t=18
+de sa dan sa dan 	的撒旦撒旦	c=2 d=1.94743 t=18
+sa dan 	撒旦	c=0 d=0.18557 t=18
+shang an 	上岸	c=0 d=0.0970446 t=18
+shang an shi da shi de 	上岸实打实的	c=1 d=0.97531 t=18
+shi 	是	c=1 d=0.927743 t=18
+shi da shi 	实打实	c=1 d=0.980199 t=18
+shi da shi de 	实打实的	c=0 d=0.0970446 t=18
+si da 	四大	c=1 d=0.932394 t=18
