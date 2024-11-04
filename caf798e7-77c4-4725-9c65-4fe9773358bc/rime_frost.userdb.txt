@@ -2,19 +2,106 @@
 #@/db_name	rime_frost
 #@/db_type	userdb
 #@/rime_version	1.11.2
-#@/tick	18
+#@/tick	124
 #@/user_id	caf798e7-77c4-4725-9c65-4fe9773358bc
-ce shi 	测试	c=9 d=8.76478 t=18
-cheng de shang 	称得上	c=1 d=0.951229 t=18
-dan shi 	但是	c=0 d=0.0918512 t=18
-dan shi de sa dan sa dan 	但是的撒旦撒旦	c=1 d=0.923116 t=18
-de 	的	c=0 d=0.18557 t=18
-de sa dan 	的撒旦	c=1 d=0.946485 t=18
-de sa dan sa dan 	的撒旦撒旦	c=2 d=1.94743 t=18
-sa dan 	撒旦	c=0 d=0.18557 t=18
-shang an 	上岸	c=0 d=0.0970446 t=18
-shang an shi da shi de 	上岸实打实的	c=1 d=0.97531 t=18
-shi 	是	c=1 d=0.927743 t=18
-shi da shi 	实打实	c=1 d=0.980199 t=18
-shi da shi de 	实打实的	c=0 d=0.0970446 t=18
-si da 	四大	c=1 d=0.932394 t=18
+a 	啊	c=0 d=0.1 t=108
+a li yun 	阿里云	c=1 d=1 t=66
+a si dun 	阿斯顿	c=0 d=0.199501 t=117
+ao de sa 	敖德萨	c=0 d=0.1 t=115
+bei jing 	背景	c=1 d=1 t=112
+bian hao 	编号	c=1 d=1 t=68
+bian ji 	编辑	c=2 d=1.98511 t=105
+biao hui 	标绘	c=1 d=1 t=51
+bu men 	部门	c=1 d=1 t=75
+cao gao 	草稿	c=1 d=1 t=96
+cao zuo 	操作	c=1 d=1 t=77
+ce ding 	测定	c=0 d=0.197045 t=121
+ce ding sa dan 	测定撒旦	c=2 d=1.99501 t=123
+ce ding wan er ao de sa da 	测定玩儿敖德萨大	c=1 d=1 t=116
+ce shi 	测试	c=11 d=8.76478 t=124
+ce shi da 	测试大	c=1 d=1 t=115
+ce shi de sa dan 	测试的撒旦	c=1 d=1 t=120
+cheng de shang 	称得上	c=1 d=0.951229 t=124
+chong gou 	重构	c=1 d=1 t=39
+chou ge jiang 	抽个奖	c=1 d=1 t=34
+chu a 	出啊	c=0 d=0.1 t=18
+chuan xiao 	传销	c=1 d=1 t=57
+chuang jian ren 	创建人	c=1 d=1 t=73
+cong er 	从而	c=0 d=0.1 t=117
+cong er de sa dan sa dan a si dun shi 	从而的撒旦撒旦阿斯顿是	c=1 d=1 t=118
+cuo wu 	错误	c=1 d=1 t=36
+da 	大	c=0 d=0.199501 t=115
+da da 	大大	c=0 d=0.197531 t=113
+da san da si 	大三大四	c=0 d=0.199501 t=109
+dan shi 	但是	c=0 d=0.0918512 t=124
+dan shi de sa dan sa dan 	但是的撒旦撒旦	c=1 d=0.923116 t=124
+de 	的	c=5 d=3.91152 t=124
+de sa dan 	的撒旦	c=2 d=1.75311 t=124
+de sa dan a shi duo shao a da san da si a da san da si da da shi da shi 	的撒旦啊是多少啊大三大四啊大三大四大大实打实	c=1 d=1 t=109
+de sa dan ding shi ding dian 	的撒旦定时定点	c=1 d=1 t=124
+de sa dan sa dan 	的撒旦撒旦	c=3 d=2.22794 t=124
+de shen ao da shi 	的申奥大使	c=1 d=1 t=119
+ding shi ding dian 	定时定点	c=0 d=0.1 t=123
+dui xiang 	对象	c=1 d=1 t=41
+duo shao a 	多少啊	c=0 d=0.1 t=109
+en en 	嗯嗯	c=0 d=0.1 t=113
+en en shang an da da 	嗯嗯上岸大大	c=1 d=1 t=114
+er wei ma 	二维码	c=1 d=1 t=104
+fa bu 	发布	c=2 d=1.96079 t=103
+fang fa 	方法	c=1 d=1 t=45
+fen lei 	分类	c=2 d=1.97531 t=72
+fu zhi 	复制	c=1 d=1 t=99
+ge jiu cai 	割韭菜	c=3 d=2.97025 t=62
+hai bu neng 	还不能	c=1 d=1 t=47
+jia 	加	c=1 d=1 t=86
+ke long 	克隆	c=1 d=1 t=100
+ke yi 	可以	c=2 d=1.82283 t=85
+luan dong 	乱动	c=1 d=1 t=48
+ma 	吗	c=1 d=1 t=88
+mei tuan 	美团	c=1 d=1 t=35
+ming cheng 	名称	c=2 d=1.99005 t=71
+neng 	能	c=1 d=1 t=33
+pei zhi 	配置	c=1 d=1 t=111
+qian duan 	前端	c=2 d=1.99005 t=52
+qing chu 	清除	c=1 d=1 t=80
+ren wu 	人物	c=1 d=1 t=106
+ren wu 	任务	c=1 d=1 t=107
+ru he 	如何	c=2 d=1.92774 t=53
+sa dan 	撒旦	c=0 d=0.207738 t=124
+shan chu 	删除	c=3 d=2.89985 t=98
+shang 	上	c=0 d=0.1 t=18
+shang an 	上岸	c=0 d=0.15177 t=124
+shang an shi da shi de 	上岸实打实的	c=1 d=0.97531 t=124
+shang chu a 	上出啊	c=2 d=1.96561 t=26
+shang chuan 	上传	c=3 d=2.92644 t=29
+shao hou 	稍后	c=1 d=1 t=37
+she zhi 	设置	c=1 d=1 t=79
+shen ao da shi 	申奥大使	c=0 d=0.199005 t=118
+shen me yi si 	什么意思	c=1 d=1 t=93
+shi 	是	c=2 d=1.44718 t=124
+shi da shi 	实打实	c=1 d=0.980199 t=124
+shi da shi de 	实打实的	c=0 d=0.1532 t=124
+shi da shi de shen ao da shi de sa dan a si dun 	实打实的申奥大使的撒旦阿斯顿	c=1 d=1 t=117
+shi duo shao a 	是多少啊	c=0 d=0.1 t=108
+shi duo shao a da san da si 	是多少啊大三大四	c=1 d=1 t=110
+shi shen me 	是什么	c=1 d=1 t=83
+shou quan ma 	授权码	c=2 d=1.97531 t=81
+shu ju 	数据	c=4 d=3.91156 t=31
+shu xing 	属性	c=1 d=1 t=43
+si da 	四大	c=1 d=0.932394 t=124
+tong bu 	同步	c=4 d=3.91156 t=30
+tou ming 	透明	c=3 d=2.77828 t=113
+tou ming du 	透明度	c=1 d=1 t=87
+wan er 	玩儿	c=0 d=0.1 t=115
+xia jia 	下架	c=1 d=1 t=101
+xiang mu 	项目	c=1 d=1 t=70
+xiao mi 	小米	c=1 d=1 t=94
+ya 	亚	c=1 d=1 t=64
+ya tuo li 	亚托莉	c=1 d=1 t=65
+yan se 	颜色	c=1 d=1 t=84
+yi ge 	一个	c=1 d=1 t=40
+you na xie 	有哪些	c=1 d=1 t=55
+you shen me 	有什么	c=1 d=1 t=44
+zhan shi 	展示	c=1 d=1 t=54
+zhong wu 	中午	c=1 d=1 t=32
+zhuang tai 	状态	c=2 d=1.84366 t=108
